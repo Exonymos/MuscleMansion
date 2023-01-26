@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<title>Background</title>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<path id="M" class="s0" aria-label="M"  d="m16 1v13.4h-4.1v-4.5l-3.1 4.5-3.1-4.5v4.5h-4.1v-9.3h-1.5v-4.1h5.6l3.1 4.5 3.1-4.5z"/>
+</svg>
